@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "title": "Margherita Pizza",
+    "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=800",
+    "rating": 4.8,
+    "description": "Classic Italian pizza with mozzarella cheese, fresh basil, and tomato sauce.",
+    "deliveryTime": "20-30 min",
+    "sizes": [
+      { "name": "Small", "price": 10 },
+      { "name": "Medium", "price": 13 },
+      { "name": "Large", "price": 16 }
+    ],
+    "addons": [
+      { "name": "Extra Cheese", "price": 2 },
+      { "name": "Mushrooms", "price": 1.5 },
+      { "name": "Black Olives", "price": 1.5 },
+      { "name": "Jalapenos", "price": 1 }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Pepperoni Pizza",
+    "image": "https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?w=800",
+    "rating": 4.9,
+    "description": "Loaded with premium beef pepperoni and mozzarella cheese.",
+    "deliveryTime": "25-35 min",
+    "sizes": [
+      { "name": "Small", "price": 12 },
+      { "name": "Medium", "price": 15 },
+      { "name": "Large", "price": 18 }
+    ],
+    "addons": [
+      { "name": "Extra Pepperoni", "price": 3 },
+      { "name": "Cheese Burst", "price": 3 },
+      { "name": "Onions", "price": 1 },
+      { "name": "Jalapenos", "price": 1.5 }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "BBQ Chicken Pizza",
+    "image": "https://images.unsplash.com/photo-1594007654729-407eedc4be65?w=800",
+    "rating": 4.7,
+    "description": "Grilled chicken, BBQ sauce, onions, and mozzarella cheese.",
+    "deliveryTime": "30-40 min",
+    "sizes": [
+      { "name": "Small", "price": 13 },
+      { "name": "Medium", "price": 16 },
+      { "name": "Large", "price": 20 }
+    ],
+    "addons": [
+      { "name": "Extra Chicken", "price": 4 },
+      { "name": "Sweet Corn", "price": 2 },
+      { "name": "BBQ Sauce", "price": 1.5 },
+      { "name": "Extra Cheese", "price": 2 }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Veggie Supreme",
+    "image": "https://images.unsplash.com/photo-1511689660979-10d2b1aada49?w=800",
+    "rating": 4.6,
+    "description": "Fresh vegetables with mozzarella and rich tomato sauce.",
+    "deliveryTime": "20-30 min",
+    "sizes": [
+      { "name": "Small", "price": 11 },
+      { "name": "Medium", "price": 14 },
+      { "name": "Large", "price": 17 }
+    ],
+    "addons": [
+      { "name": "Paneer", "price": 3 },
+      { "name": "Olives", "price": 2 },
+      { "name": "Extra Cheese", "price": 2 },
+      { "name": "Mushrooms", "price": 2 }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Hawaiian Pizza",
+    "image": "https://images.unsplash.com/photo-1541745537411-b8046dc6d66c?w=800",
+    "rating": 4.5,
+    "description": "Ham, pineapple, mozzarella, and tomato sauce.",
+    "deliveryTime": "25-35 min",
+    "sizes": [
+      { "name": "Small", "price": 12 },
+      { "name": "Medium", "price": 15 },
+      { "name": "Large", "price": 19 }
+    ],
+    "addons": [
+      { "name": "Extra Ham", "price": 3 },
+      { "name": "Pineapple", "price": 2 },
+      { "name": "Cheese Burst", "price": 3 },
+      { "name": "Bacon", "price": 4 }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Meat Lovers Pizza",
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800",
+    "rating": 4.9,
+    "description": "Pepperoni, sausage, beef, bacon, and mozzarella cheese.",
+    "deliveryTime": "30-40 min",
+    "sizes": [
+      { "name": "Medium", "price": 18 },
+      { "name": "Large", "price": 22 },
+      { "name": "Family", "price": 27 }
+    ],
+    "addons": [
+      { "name": "Extra Beef", "price": 4 },
+      { "name": "Extra Bacon", "price": 3 },
+      { "name": "Cheese Burst", "price": 3 },
+      { "name": "BBQ Sauce", "price": 2 }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Four Cheese Pizza",
+    "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=800",
+    "rating": 4.8,
+    "description": "Mozzarella, cheddar, parmesan, and blue cheese blend.",
+    "deliveryTime": "20-30 min",
+    "sizes": [
+      { "name": "Small", "price": 13 },
+      { "name": "Medium", "price": 16 },
+      { "name": "Large", "price": 19 }
+    ],
+    "addons": [
+      { "name": "Extra Cheese", "price": 3 },
+      { "name": "Garlic Sauce", "price": 1.5 },
+      { "name": "Olives", "price": 2 },
+      { "name": "Mushrooms", "price": 2 }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Spicy Mexican Pizza",
+    "image": "https://images.unsplash.com/photo-1604382355076-af4b0eb60143?w=800",
+    "rating": 4.7,
+    "description": "Spicy chicken, jalapenos, onions, and bell peppers.",
+    "deliveryTime": "25-35 min",
+    "sizes": [
+      { "name": "Small", "price": 14 },
+      { "name": "Medium", "price": 17 },
+      { "name": "Large", "price": 21 }
+    ],
+    "addons": [
+      { "name": "Extra Chicken", "price": 4 },
+      { "name": "Jalapenos", "price": 2 },
+      { "name": "Guacamole", "price": 3 },
+      { "name": "Sour Cream", "price": 2 }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Seafood Delight",
+    "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=800",
+    "rating": 4.6,
+    "description": "Shrimp, tuna, mozzarella cheese, and garlic sauce.",
+    "deliveryTime": "35-45 min",
+    "sizes": [
+      { "name": "Medium", "price": 19 },
+      { "name": "Large", "price": 23 },
+      { "name": "Family", "price": 29 }
+    ],
+    "addons": [
+      { "name": "Extra Shrimp", "price": 5 },
+      { "name": "Garlic Sauce", "price": 2 },
+      { "name": "Extra Cheese", "price": 2 },
+      { "name": "Olives", "price": 2 }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Buffalo Chicken Pizza",
+    "image": "https://images.unsplash.com/photo-1548365328-9f547fb0953b?w=800",
+    "rating": 4.9,
+    "description": "Buffalo chicken with ranch drizzle and mozzarella cheese.",
+    "deliveryTime": "30-40 min",
+    "sizes": [
+      { "name": "Small", "price": 14 },
+      { "name": "Medium", "price": 17 },
+      { "name": "Large", "price": 21 }
+    ],
+    "addons": [
+      { "name": "Extra Chicken", "price": 4 },
+      { "name": "Ranch Sauce", "price": 2 },
+      { "name": "Cheese Burst", "price": 3 },
+      { "name": "Bacon", "price": 4 }
+    ]
+  }
+]
